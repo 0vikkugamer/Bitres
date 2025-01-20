@@ -11,8 +11,8 @@ from keepalive import keep_alive
 from pymongo import MongoClient
 
 # Configuration
-TOKEN = '8195526614AAECGa72I7T7vV6pJy3dhNh3WM3PRzqjgU'
-ADMIN_USER_ID = 1234567890
+TOKEN = '7633739831:AAHaj_my2iQBhf8prDJhZK59umYfrwYXpX0'
+ADMIN_USER_ID = 6957116305
 MONGO_URI = 'mongodb+srv://VIKASH:BadnamBadshah@cluster0.jv9he.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0&tlsAllowInvalidCertificates=true' # Update with your MongoDB URI
 
 logging.basicConfig(format='%(asctime)s - %(message)s', level=logging.INFO)
